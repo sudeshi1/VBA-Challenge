@@ -7,6 +7,7 @@ This is a VBA scripting project to analyze real stock market data. The stock dat
 
 ## Accomplishments
 [Stocks](/stocks.vbs)
+
 Create a script that looped through all the stocks for one worksheet and resulted with the following information:
 1. Displaying the **ticker symbol** in *column I*.
 2. The script then looped through all the stocks to result in **total stocks volume** in *column L*. 
