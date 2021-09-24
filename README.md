@@ -8,3 +8,5 @@ This is a VBA scripting project to analyze real stock market data. The stock dat
 ## Accomplishments
 
 [Stocks](/stocks.vbs)
+
+1. 
