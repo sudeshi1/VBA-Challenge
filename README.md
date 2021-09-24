@@ -12,9 +12,13 @@ Create a script that looped through all the stocks for one worksheet and resulte
 1. Displaying the **ticker symbol** in *column I*.
 2. The script then looped through all the stocks to result in **total stocks volume** in *column L*. 
 3. Created a script to give an output for **yearly change** from opening price at the beginning of a given year to the closing price at the end of that year in *column J*
+   
    **Yearly Price = Close Price - Open Price** of each given stock
+   
 4. Lastly, generated a script to give an output for the **percent change** from opening price at the beginning of a given year to the closing price at the end of that year in *column K*
+
    **Percent Change = (Yearly Price/Open Price)** of each given stock
+   
 5. Applied conditional formatting that highlighted *positive* yearly change in **green** and *negative* yearly change in **red**.
 
 ## Bonus!
