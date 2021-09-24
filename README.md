@@ -23,8 +23,8 @@ Create a script that looped through all the stocks for one worksheet and resulte
 
 ## Bonus!
 
-6. Created a scipt in order to display, **Greatest Percent Increase*, **Greatest Percent Decrease** and **Greatest Total Volume** with their corresponding ticker names and values for the yearly stocks.
-7. Finally, made appropriate adjustments to the script that allowed it to run on every worksheet, every year just by running the script once.
+6. Created a script in order to display, **Greatest Percent Increase*, **Greatest Percent Decrease** and **Greatest Total Volume** with their corresponding ticker names and values for the yearly stocks.
+7. Finally, made appropriate adjustments to the script that allowed it to run on every worksheet, i.e., every year just by running the script **once**.
 
 ## Outcome
 ### 2014 Stocks
