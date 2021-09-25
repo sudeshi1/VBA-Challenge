@@ -6,7 +6,7 @@ This is a VBA scripting project to analyze real stock market data. The stock dat
 ![Stocks](/images/giphy.gif)
 
 ## Accomplishments
-[Stocks](/stocks.vbs)
+[Stocks](/stocks.bas)
 
 Create a script that looped through all the stocks for one worksheet and resulted with the following information:
 1. Displaying the **ticker symbol** in *column I*.
